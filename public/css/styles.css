@@ -225,10 +225,11 @@ main .vendedor{
     flex: 1 1 30%;
     margin-left: 15px;
 }
-
-main .deporte,
 main .electro,
-main .ropa {
+main .moda,
+main .hogar,
+main .jugueteria,
+main .vidasana {
     flex-flow: row;
     align-items: center;
     margin-left: 20px;
